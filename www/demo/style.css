@@ -1,0 +1,38 @@
+body {
+	background-image: url('bg.png');
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 10%;
+}
+
+form {
+	background-color: #E5E5E5;
+	border-radius: 5px;
+	color: black;
+	width: 500px;
+	height: 200px;
+	margin: 100px auto auto auto;
+	padding: 100px 0px 0px 150px;
+	border: solid 1px white;
+	font-size: 14pt;
+}
+
+form input {
+	height: 25px;
+	width: 150px;
+	margin: 5px;
+}
+
+.button {
+	width: 75px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 14pt;
+}

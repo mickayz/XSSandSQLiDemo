@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	border-bottom: solid 1px white;
+	width: 500px;
+	font-size: 25pt;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 16pt;
+	width: 300px;
+	margin-left: 200px;
+}
+
+a:hover {
+	color: #4662A3;
+}
+
+img {
+	width: 150px;
+	display: block;
+	margin-left: 170px;
+}
